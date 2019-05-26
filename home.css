@@ -1,0 +1,26 @@
+html{
+  background-image: url('sky.jpg')
+}
+body {
+    text-align : center;
+  }
+  div{
+    position : relative;
+    left : 25%;
+    text-align : center;
+    width : 695px;
+    border: 5px solid rgb(183, 137, 201);
+  }
+  
+  li {
+    list-style-type : none;
+  }
+  
+  
+  
+  .section_part {
+    width : 100px;
+    height : 100px;
+    position:relative;
+  }
+  
